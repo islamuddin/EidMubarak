@@ -1,2 +1,2 @@
 # EidMubarak
-Eid Mubarak To All  https://ahsanmangal.github.io/EidMubarak/
+Eid Mubarak To All  https://islamuddin.github.io/EidMubarak/
